@@ -4,6 +4,7 @@
         Dim estudia As Boolean = False
 
         Console.Write("Ingrese el dinero ahorrado: ")
+        Console.WriteLine("Esto es un pequeno cambio")
         Dim dineroAhorrado As Double = Console.ReadLine()
 
         If dineroAhorrado >= 600 Then
