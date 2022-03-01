@@ -56,6 +56,7 @@
                     Console.WriteLine("La opcion ingresada no es valida")
             End Select
 
+            Console.WriteLine("Esto es nada mas una prueba para la actualizacion del token")
             Console.Write("Quieres realizar alguna otra operacion? S/N: ")
             opc = Console.ReadLine()
 
